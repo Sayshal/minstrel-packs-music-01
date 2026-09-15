@@ -1,0 +1,16 @@
+Minstrel: Music I
+
+MUSIC (assets/audio/*.ogg):
+  All music is by Kevin MacLeod (incompetech.com), licensed under
+  Creative Commons: By Attribution 4.0 (https://creativecommons.org/licenses/by/4.0/).
+  Attribution for each track is provided in assets/audio/ATTRIBUTION.txt and in
+  the bundled "Credits & Attribution" journal compendium. You must keep this
+  attribution intact when redistributing the audio.
+
+ARTWORK (assets/art/*.webp):
+  Copyright (c) 2026 3 Death Saves. Album covers set in Instrument Serif
+  (SIL Open Font License 1.1).
+
+PACKAGING (module.json, packs/, compendium data):
+  Copyright (c) 2026 3 Death Saves. You are free to use and share this pack.
+  Provided "as is", without warranty of any kind.

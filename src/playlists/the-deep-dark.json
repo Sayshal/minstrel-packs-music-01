@@ -1,0 +1,82 @@
+{
+  "_id": "BXOAWgrp7kWJ70u1",
+  "name": "The Deep Dark",
+  "description": "<p>Dread and distance beneath the earth. Sequential with a long crossfade, one shadow bleeding into the next.</p>",
+  "mode": 0,
+  "playing": false,
+  "fade": 3000,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "4OreXq7KzsJVHxWE",
+      "name": "Anguish",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400047",
+      "path": "modules/minstrel-packs-music-01/assets/audio/anguish.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400047"
+        }
+      },
+      "_key": "!playlists.sounds!BXOAWgrp7kWJ70u1.4OreXq7KzsJVHxWE"
+    },
+    {
+      "_id": "gWFaJjeGpaBqIMH2",
+      "name": "Ghost Story",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300034",
+      "path": "modules/minstrel-packs-music-01/assets/audio/ghost-story.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300034"
+        }
+      },
+      "_key": "!playlists.sounds!BXOAWgrp7kWJ70u1.gWFaJjeGpaBqIMH2"
+    },
+    {
+      "_id": "JRL61fme8WYfUOTr",
+      "name": "Long Note Two",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100420",
+      "path": "modules/minstrel-packs-music-01/assets/audio/long-note-two.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100420"
+        }
+      },
+      "_key": "!playlists.sounds!BXOAWgrp7kWJ70u1.JRL61fme8WYfUOTr"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "yi31gnoO3yvV4iqZ",
+  "flags": {
+    "minstrel": {
+      "crossfade": true,
+      "art": "modules/minstrel-packs-music-01/assets/art/the-deep-dark.webp",
+      "color": "#141426"
+    }
+  },
+  "_key": "!playlists!BXOAWgrp7kWJ70u1"
+}

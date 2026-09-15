@@ -1,0 +1,102 @@
+{
+  "_id": "PSJJcKt65Bl6oduY",
+  "name": "The Last Stand",
+  "description": "<p>The fight that decides it. Shuffled, no crossfade: every track opens hard.</p>",
+  "mode": 1,
+  "playing": false,
+  "fade": 1000,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "Px4sgcST2zb4MqKn",
+      "name": "Clash Defiant",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600003",
+      "path": "modules/minstrel-packs-music-01/assets/audio/clash-defiant.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600003"
+        }
+      },
+      "_key": "!playlists.sounds!PSJJcKt65Bl6oduY.Px4sgcST2zb4MqKn"
+    },
+    {
+      "_id": "9j6oQpB3Y9xJDkq6",
+      "name": "Heroic Age",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100848",
+      "path": "modules/minstrel-packs-music-01/assets/audio/heroic-age.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100848"
+        }
+      },
+      "_key": "!playlists.sounds!PSJJcKt65Bl6oduY.9j6oQpB3Y9xJDkq6"
+    },
+    {
+      "_id": "9LHEEdMPM8goD4Hv",
+      "name": "Volatile Reaction",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400039",
+      "path": "modules/minstrel-packs-music-01/assets/audio/volatile-reaction.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400039"
+        }
+      },
+      "_key": "!playlists.sounds!PSJJcKt65Bl6oduY.9LHEEdMPM8goD4Hv"
+    },
+    {
+      "_id": "Ti2r3zwts62cgClb",
+      "name": "Failing Defense",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100726",
+      "path": "modules/minstrel-packs-music-01/assets/audio/failing-defense.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100726"
+        }
+      },
+      "_key": "!playlists.sounds!PSJJcKt65Bl6oduY.Ti2r3zwts62cgClb"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "7BDP8BC81Y8kw7Il",
+  "flags": {
+    "minstrel": {
+      "crossfade": false,
+      "art": "modules/minstrel-packs-music-01/assets/art/the-last-stand.webp",
+      "color": "#26140e"
+    }
+  },
+  "_key": "!playlists!PSJJcKt65Bl6oduY"
+}

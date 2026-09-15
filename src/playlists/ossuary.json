@@ -1,0 +1,102 @@
+{
+  "_id": "S7KGfcAWsdCAvY5M",
+  "name": "Ossuary",
+  "description": "<p>Ritual, chant, and slow arcane weight. Sequential with a long crossfade for ceremonies and summonings.</p>",
+  "mode": 0,
+  "playing": false,
+  "fade": 3500,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "9K7prelqw1OoqQ1l",
+      "name": "Ossuary 1 - A Beginning",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500043",
+      "path": "modules/minstrel-packs-music-01/assets/audio/ossuary-1-a-beginning.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500043"
+        }
+      },
+      "_key": "!playlists.sounds!S7KGfcAWsdCAvY5M.9K7prelqw1OoqQ1l"
+    },
+    {
+      "_id": "C1GDYzUSq35egfnY",
+      "name": "Ossuary 5 - Rest",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500047",
+      "path": "modules/minstrel-packs-music-01/assets/audio/ossuary-5-rest.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500047"
+        }
+      },
+      "_key": "!playlists.sounds!S7KGfcAWsdCAvY5M.C1GDYzUSq35egfnY"
+    },
+    {
+      "_id": "VQg7d2wvoVukm3Gv",
+      "name": "Ossuary 6 - Air",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500048",
+      "path": "modules/minstrel-packs-music-01/assets/audio/ossuary-6-air.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500048"
+        }
+      },
+      "_key": "!playlists.sounds!S7KGfcAWsdCAvY5M.VQg7d2wvoVukm3Gv"
+    },
+    {
+      "_id": "hWiBpDEasNQvHXcn",
+      "name": "Gregorian Chant",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600052",
+      "path": "modules/minstrel-packs-music-01/assets/audio/gregorian-chant.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600052"
+        }
+      },
+      "_key": "!playlists.sounds!S7KGfcAWsdCAvY5M.hWiBpDEasNQvHXcn"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "XOsG7enBLI8QC67a",
+  "flags": {
+    "minstrel": {
+      "crossfade": true,
+      "art": "modules/minstrel-packs-music-01/assets/art/ossuary.webp",
+      "color": "#1c1a12"
+    }
+  },
+  "_key": "!playlists!S7KGfcAWsdCAvY5M"
+}

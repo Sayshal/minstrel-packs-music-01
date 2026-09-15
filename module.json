@@ -1,0 +1,61 @@
+{
+  "authors": [
+    {
+      "name": "Tyler",
+      "discord": "Tyler",
+      "url": "https://github.com/Sayshal"
+    }
+  ],
+  "bugs": "https://github.com/Sayshal/minstrel-packs-music-01/issues",
+  "changelog": "https://github.com/Sayshal/minstrel-packs-music-01/releases",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.367"
+  },
+  "description": "Ten atmospheric playlists for FoundryVTT, built from Kevin MacLeod's CC-BY music and packaged for Minstrel. Taverns, battles, courts, crypts, and the deep places under the mountain: each arrives with album art and crossfade ready to play. Works in any world; shines inside Minstrel.",
+  "download": "",
+  "id": "minstrel-packs-music-01",
+  "license": "LICENSE",
+  "manifest": "https://github.com/Sayshal/minstrel-packs-music-01/releases/latest/download/module.json",
+  "media": [
+    {
+      "type": "icon",
+      "url": "modules/minstrel-packs-music-01/assets/art/taverns-and-trails.webp"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Minstrel Audio Packs",
+      "sorting": "m",
+      "color": "#e6a94d",
+      "folders": [
+        {
+          "name": "Minstrel: Music I",
+          "sorting": "a",
+          "packs": [
+            "playlists",
+            "credits"
+          ]
+        }
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "name": "playlists",
+      "label": "Playlists",
+      "path": "packs/playlists",
+      "type": "Playlist"
+    },
+    {
+      "name": "credits",
+      "label": "Credits",
+      "path": "packs/credits",
+      "type": "JournalEntry"
+    }
+  ],
+  "readme": "https://github.com/Sayshal/minstrel-packs-music-01?tab=readme-ov-file",
+  "title": "Minstrel: Music I",
+  "url": "https://github.com/Sayshal/minstrel-packs-music-01",
+  "version": ""
+}

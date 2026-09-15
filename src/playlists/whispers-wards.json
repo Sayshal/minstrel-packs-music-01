@@ -1,0 +1,102 @@
+{
+  "_id": "QtWNBJYswAnCrTMC",
+  "name": "Whispers & Wards",
+  "description": "<p>Back rooms, cold reads, and the thing behind the door. Sequential with crossfade for investigation and intrigue.</p>",
+  "mode": 0,
+  "playing": false,
+  "fade": 3000,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "XXTOYfsFHYIIwgNM",
+      "name": "Hidden Agenda",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200102",
+      "path": "modules/minstrel-packs-music-01/assets/audio/hidden-agenda.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200102"
+        }
+      },
+      "_key": "!playlists.sounds!QtWNBJYswAnCrTMC.XXTOYfsFHYIIwgNM"
+    },
+    {
+      "_id": "JG15giwlq0mm32SW",
+      "name": "Cryptic Sorrow",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100276",
+      "path": "modules/minstrel-packs-music-01/assets/audio/cryptic-sorrow.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100276"
+        }
+      },
+      "_key": "!playlists.sounds!QtWNBJYswAnCrTMC.JG15giwlq0mm32SW"
+    },
+    {
+      "_id": "T7onjx0wkVAc14XC",
+      "name": "Deep Haze",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100886",
+      "path": "modules/minstrel-packs-music-01/assets/audio/deep-haze.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100886"
+        }
+      },
+      "_key": "!playlists.sounds!QtWNBJYswAnCrTMC.T7onjx0wkVAc14XC"
+    },
+    {
+      "_id": "LmgWjDtqsRLegmxJ",
+      "name": "Interloper",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100401",
+      "path": "modules/minstrel-packs-music-01/assets/audio/interloper.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100401"
+        }
+      },
+      "_key": "!playlists.sounds!QtWNBJYswAnCrTMC.LmgWjDtqsRLegmxJ"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "cUTbW3uLUMstwo5s",
+  "flags": {
+    "minstrel": {
+      "crossfade": true,
+      "art": "modules/minstrel-packs-music-01/assets/art/whispers-and-wards.webp",
+      "color": "#101f24"
+    }
+  },
+  "_key": "!playlists!QtWNBJYswAnCrTMC"
+}

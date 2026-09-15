@@ -1,0 +1,102 @@
+{
+  "_id": "7iCmo5ReQibVrYkC",
+  "name": "Halls of Iron",
+  "description": "<p>Dwarven deeps, forge-light, and the drums below. Sequential with crossfade for the long descent.</p>",
+  "mode": 0,
+  "playing": false,
+  "fade": 3000,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "GhmEfgIpovNKcBsO",
+      "name": "Drums of the Deep",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400021",
+      "path": "modules/minstrel-packs-music-01/assets/audio/drums-of-the-deep.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400021"
+        }
+      },
+      "_key": "!playlists.sounds!7iCmo5ReQibVrYkC.GhmEfgIpovNKcBsO"
+    },
+    {
+      "_id": "kVB7Op8KVPzEZZ9H",
+      "name": "The Descent",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200094",
+      "path": "modules/minstrel-packs-music-01/assets/audio/the-descent.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200094"
+        }
+      },
+      "_key": "!playlists.sounds!7iCmo5ReQibVrYkC.kVB7Op8KVPzEZZ9H"
+    },
+    {
+      "_id": "C38lP5p4DzqVU88o",
+      "name": "Lightless Dawn",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100655",
+      "path": "modules/minstrel-packs-music-01/assets/audio/lightless-dawn.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100655"
+        }
+      },
+      "_key": "!playlists.sounds!7iCmo5ReQibVrYkC.C38lP5p4DzqVU88o"
+    },
+    {
+      "_id": "UxwlOymcxb5BLoQ9",
+      "name": "Oppressive Gloom",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100885",
+      "path": "modules/minstrel-packs-music-01/assets/audio/oppressive-gloom.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100885"
+        }
+      },
+      "_key": "!playlists.sounds!7iCmo5ReQibVrYkC.UxwlOymcxb5BLoQ9"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "K7AwdBen1b3N7X8g",
+  "flags": {
+    "minstrel": {
+      "crossfade": true,
+      "art": "modules/minstrel-packs-music-01/assets/art/halls-of-iron.webp",
+      "color": "#17191c"
+    }
+  },
+  "_key": "!playlists!7iCmo5ReQibVrYkC"
+}

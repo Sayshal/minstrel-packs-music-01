@@ -1,0 +1,82 @@
+{
+  "_id": "eMLQkRaJddHv75BC",
+  "name": "Taverns & Trails",
+  "description": "<p>Warm hearths, market squares, and the open road. Sequential with crossfade for a seamless journey.</p>",
+  "mode": 0,
+  "playing": false,
+  "fade": 2000,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "ByO7oU0dc1PS5M5N",
+      "name": "Angevin",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200110",
+      "path": "modules/minstrel-packs-music-01/assets/audio/angevin.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200110"
+        }
+      },
+      "_key": "!playlists.sounds!eMLQkRaJddHv75BC.ByO7oU0dc1PS5M5N"
+    },
+    {
+      "_id": "VR73FHBaIGbZnFDe",
+      "name": "Fiddles McGinty",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400051",
+      "path": "modules/minstrel-packs-music-01/assets/audio/fiddles-mcginty.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400051"
+        }
+      },
+      "_key": "!playlists.sounds!eMLQkRaJddHv75BC.VR73FHBaIGbZnFDe"
+    },
+    {
+      "_id": "CYW1Hmucq5FTjF5z",
+      "name": "Folk Round",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100357",
+      "path": "modules/minstrel-packs-music-01/assets/audio/folk-round.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100357"
+        }
+      },
+      "_key": "!playlists.sounds!eMLQkRaJddHv75BC.CYW1Hmucq5FTjF5z"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "pPS6DH17GzRendpe",
+  "flags": {
+    "minstrel": {
+      "crossfade": true,
+      "art": "modules/minstrel-packs-music-01/assets/art/taverns-and-trails.webp",
+      "color": "#2a1d10"
+    }
+  },
+  "_key": "!playlists!eMLQkRaJddHv75BC"
+}

@@ -1,0 +1,102 @@
+{
+  "_id": "JFbR5JECjlPnIOk0",
+  "name": "Court & Crown",
+  "description": "<p>Throne rooms, audiences, and the weight of a title. Sequential with crossfade for long scenes of talk and politics.</p>",
+  "mode": 0,
+  "playing": false,
+  "fade": 2500,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "qBMisCzxjaWZGBL6",
+      "name": "Minstrel Guild",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200098",
+      "path": "modules/minstrel-packs-music-01/assets/audio/minstrel-guild.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200098"
+        }
+      },
+      "_key": "!playlists.sounds!JFbR5JECjlPnIOk0.qBMisCzxjaWZGBL6"
+    },
+    {
+      "_id": "u8eStH7fLjhSuI8h",
+      "name": "Teller of the Tales",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400020",
+      "path": "modules/minstrel-packs-music-01/assets/audio/teller-of-the-tales.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400020"
+        }
+      },
+      "_key": "!playlists.sounds!JFbR5JECjlPnIOk0.u8eStH7fLjhSuI8h"
+    },
+    {
+      "_id": "S7U6QqY9PpbqSB9Y",
+      "name": "Rites",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100722",
+      "path": "modules/minstrel-packs-music-01/assets/audio/rites.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100722"
+        }
+      },
+      "_key": "!playlists.sounds!JFbR5JECjlPnIOk0.S7U6QqY9PpbqSB9Y"
+    },
+    {
+      "_id": "GUaxUkHuxdXCfTWU",
+      "name": "Lord of the Land",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400022",
+      "path": "modules/minstrel-packs-music-01/assets/audio/lord-of-the-land.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400022"
+        }
+      },
+      "_key": "!playlists.sounds!JFbR5JECjlPnIOk0.GUaxUkHuxdXCfTWU"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "Wlz8E9pwFSXddriD",
+  "flags": {
+    "minstrel": {
+      "crossfade": true,
+      "art": "modules/minstrel-packs-music-01/assets/art/court-and-crown.webp",
+      "color": "#1d1726"
+    }
+  },
+  "_key": "!playlists!JFbR5JECjlPnIOk0"
+}

@@ -1,0 +1,102 @@
+{
+  "_id": "Ul9IYjIoucWnjSkH",
+  "name": "Green & Wild",
+  "description": "<p>Old forests, hill country, and the long walk between towns. Sequential with crossfade for overland travel.</p>",
+  "mode": 0,
+  "playing": false,
+  "fade": 2500,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "PSpvUQgPn94xooE2",
+      "name": "Achaidh Cheide",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100340",
+      "path": "modules/minstrel-packs-music-01/assets/audio/achaidh-cheide.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100340"
+        }
+      },
+      "_key": "!playlists.sounds!Ul9IYjIoucWnjSkH.PSpvUQgPn94xooE2"
+    },
+    {
+      "_id": "7X4oaCsYI3Jzxevd",
+      "name": "Celtic Impulse",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100297",
+      "path": "modules/minstrel-packs-music-01/assets/audio/celtic-impulse.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100297"
+        }
+      },
+      "_key": "!playlists.sounds!Ul9IYjIoucWnjSkH.7X4oaCsYI3Jzxevd"
+    },
+    {
+      "_id": "P11MLqO932VqGay7",
+      "name": "Magic Forest",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600044",
+      "path": "modules/minstrel-packs-music-01/assets/audio/magic-forest.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600044"
+        }
+      },
+      "_key": "!playlists.sounds!Ul9IYjIoucWnjSkH.P11MLqO932VqGay7"
+    },
+    {
+      "_id": "EGsGPdsc1ldhIKVK",
+      "name": "Enchanted Valley",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200093",
+      "path": "modules/minstrel-packs-music-01/assets/audio/enchanted-valley.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200093"
+        }
+      },
+      "_key": "!playlists.sounds!Ul9IYjIoucWnjSkH.EGsGPdsc1ldhIKVK"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "1KVwrC70EiQpe8Pa",
+  "flags": {
+    "minstrel": {
+      "crossfade": true,
+      "art": "modules/minstrel-packs-music-01/assets/art/green-and-wild.webp",
+      "color": "#14210f"
+    }
+  },
+  "_key": "!playlists!Ul9IYjIoucWnjSkH"
+}

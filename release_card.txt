@@ -1,0 +1,4 @@
+## New Features
+
+- Ten music playlists of Kevin MacLeod tracks, each with album art and Minstrel crossfade settings.
+- A Credits & Attribution journal lists every track with its source link and license.

@@ -1,0 +1,82 @@
+{
+  "_id": "OFMOU3zMSC6fQHlA",
+  "name": "Steel & Fury",
+  "description": "<p>Drums, tension, and the clash of arms. Shuffled so no two fights sound the same.</p>",
+  "mode": 1,
+  "playing": false,
+  "fade": 1000,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "s5FWjv2aks9LKxI4",
+      "name": "Dark Times",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100747",
+      "path": "modules/minstrel-packs-music-01/assets/audio/dark-times.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100747"
+        }
+      },
+      "_key": "!playlists.sounds!OFMOU3zMSC6fQHlA.s5FWjv2aks9LKxI4"
+    },
+    {
+      "_id": "qCh0LYGfpoCbLnTq",
+      "name": "Killers",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600024",
+      "path": "modules/minstrel-packs-music-01/assets/audio/killers.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600024"
+        }
+      },
+      "_key": "!playlists.sounds!OFMOU3zMSC6fQHlA.qCh0LYGfpoCbLnTq"
+    },
+    {
+      "_id": "m6goKaPbCfLKpuXE",
+      "name": "Crossing the Chasm",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700026",
+      "path": "modules/minstrel-packs-music-01/assets/audio/crossing-the-chasm.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700026"
+        }
+      },
+      "_key": "!playlists.sounds!OFMOU3zMSC6fQHlA.m6goKaPbCfLKpuXE"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "HPNS54GYCfNqCKVn",
+  "flags": {
+    "minstrel": {
+      "crossfade": false,
+      "art": "modules/minstrel-packs-music-01/assets/art/steel-and-fury.webp",
+      "color": "#241016"
+    }
+  },
+  "_key": "!playlists!OFMOU3zMSC6fQHlA"
+}

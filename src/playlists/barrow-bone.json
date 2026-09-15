@@ -1,0 +1,102 @@
+{
+  "_id": "YsmKd2SxBGCAWKtZ",
+  "name": "Barrow & Bone",
+  "description": "<p>Grave dirt, dead things walking, and the smell of old wax. Shuffled so a crypt crawl never repeats itself.</p>",
+  "mode": 1,
+  "playing": false,
+  "fade": 1500,
+  "channel": "music",
+  "sounds": [
+    {
+      "_id": "IJ24DARrW9xpHLyr",
+      "name": "Grim Idol",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700043",
+      "path": "modules/minstrel-packs-music-01/assets/audio/grim-idol.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700043"
+        }
+      },
+      "_key": "!playlists.sounds!YsmKd2SxBGCAWKtZ.IJ24DARrW9xpHLyr"
+    },
+    {
+      "_id": "yKjCpktVKpFzFrYX",
+      "name": "Unholy Knight",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700052",
+      "path": "modules/minstrel-packs-music-01/assets/audio/unholy-knight.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1700052"
+        }
+      },
+      "_key": "!playlists.sounds!YsmKd2SxBGCAWKtZ.yKjCpktVKpFzFrYX"
+    },
+    {
+      "_id": "L7bDOfYuBcEvwXsJ",
+      "name": "Curse of the Scarab",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600014",
+      "path": "modules/minstrel-packs-music-01/assets/audio/curse-of-the-scarab.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1600014"
+        }
+      },
+      "_key": "!playlists.sounds!YsmKd2SxBGCAWKtZ.L7bDOfYuBcEvwXsJ"
+    },
+    {
+      "_id": "HTfcUBywwTfjvjnn",
+      "name": "Return of Lazarus",
+      "description": "Kevin MacLeod: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200090",
+      "path": "modules/minstrel-packs-music-01/assets/audio/return-of-lazarus.ogg",
+      "channel": "music",
+      "playing": false,
+      "pausedTime": null,
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400,
+      "flags": {
+        "minstrel": {
+          "artist": "Kevin MacLeod",
+          "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200090"
+        }
+      },
+      "_key": "!playlists.sounds!YsmKd2SxBGCAWKtZ.HTfcUBywwTfjvjnn"
+    }
+  ],
+  "seed": null,
+  "sorting": "a",
+  "folder": "uppeFvXvUjtBRjo8",
+  "flags": {
+    "minstrel": {
+      "crossfade": false,
+      "art": "modules/minstrel-packs-music-01/assets/art/barrow-and-bone.webp",
+      "color": "#1a1a17"
+    }
+  },
+  "_key": "!playlists!YsmKd2SxBGCAWKtZ"
+}
