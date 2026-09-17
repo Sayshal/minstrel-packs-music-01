@@ -1,3 +1,5 @@
+This module is pending Foundry approval. You can download it from [here](https://github.com/Sayshal/minstrel-packs-music-01/releases/latest/download/module.json).
+
 ## New Features
 
 - Ten music playlists of Kevin MacLeod tracks, each with album art and Minstrel crossfade settings.
