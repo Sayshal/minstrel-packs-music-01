@@ -180,7 +180,7 @@ jobs:
           roles = os.environ['PING_ROLES'].split()
           title = os.environ['MODULE_TITLE'] + ' v' + os.environ['VERSION']
           package_url = 'https://foundryvtt.com/packages/' + os.environ['MODULE_ID']
-          wiki_url = 'https://wiki.3deathsaves.com/' + os.environ['MODULE_ID']
+          wiki_url = 'https://wiki.3deathsaves.com/minstrel/audio-packs/'
           separator = {'type': 14, 'divider': True, 'spacing': 1}
 
           payload = {
